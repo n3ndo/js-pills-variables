@@ -24,3 +24,5 @@ console.log(name);
 let greet = "Ciao Mondo!";
 console.log(greet);
 
+greet="Come stai, Mondo?";
+console.log(greet);
