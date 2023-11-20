@@ -24,5 +24,10 @@ console.log(name);
 let greet = "Ciao Mondo!";
 console.log(greet);
 
-greet="Come stai, Mondo?";
-console.log(greet);
+// Esercizio 4/B
+// let greet= "Come stai?";
+// console.log(greet);
+
+// Esercizio 4/C
+greet= `${greet} Come stai?`;
+console.log(greet)
