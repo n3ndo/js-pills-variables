@@ -31,3 +31,28 @@ console.log(greet);
 // Esercizio 4/C
 greet= `${greet} Come stai?`;
 console.log(greet)
+
+// Esercizio 5
+// let num1 = 10;
+// let num2 = 2;
+// let comparison;
+// if (num1 > num2) {
+//     comparison = num1;
+
+// } else {
+//     comparison = num2;
+
+// }
+// console.log(comparison);
+
+// Esercizio 6
+let name1= "Marco";
+let name2= "pippo";
+let comparison;
+if(name1 == name2){
+    comparison = "i due nomi sono uguali";
+}
+else{
+    comparison = "i due nomi sono diversi";
+}
+ console.log(comparison)
