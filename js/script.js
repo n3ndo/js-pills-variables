@@ -46,13 +46,23 @@ console.log(greet)
 // console.log(comparison);
 
 // Esercizio 6
-let name1= "Marco";
-let name2= "pippo";
+// let name1= "Marco";
+// let name2= "pippo";
+// let comparison;
+// if(name1 == name2){
+//     comparison = "i due nomi sono uguali";
+// }
+// else{
+//     comparison = "i due nomi sono diversi";
+// }
+//  console.log(comparison)
+
+// Esercizio 7
+let num = 23;
 let comparison;
-if(name1 == name2){
-    comparison = "i due nomi sono uguali";
+if (num == "23") {
+    comparison = true;
+} else {
+    comparison = false;
 }
-else{
-    comparison = "i due nomi sono diversi";
-}
- console.log(comparison)
+console.log(comparison);
