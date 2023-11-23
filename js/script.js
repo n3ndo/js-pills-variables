@@ -84,3 +84,5 @@ console.log(numbers);
 // Esercizio 11
 const fruits = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi", "papaya"];
 console.log(fruits);
+// Esercizio 12
+console.log(fruits.length);
