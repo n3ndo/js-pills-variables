@@ -66,3 +66,8 @@ if (num == "23") {
     comparison = false;
 }
 console.log(comparison);
+
+// Esercizio 8
+for(let i=1; i<=42; i++){
+    console.log(i);
+}
